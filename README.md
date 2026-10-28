@@ -52,7 +52,8 @@ https://내아이디.github.io/저장소이름/
 1. 저장소를 내려받습니다.
 
    ```
-   git clone https://github.com/내아이디/저장소이름.git
+   [배포주소](https://jiwoo8830.github.io/expanding-cards/)
+
    ```
 
 2. `index.html`을 브라우저에서 엽니다. (VS Code의 Live Server를 쓰면 편합니다.)
